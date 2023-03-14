@@ -71,7 +71,7 @@ function Form() {
           </p>
         </label>
         <button className="send-form-button" onClick={Post}>
-          enviar
+          send
         </button>
       </form>
       <div className="div-buttons-link-formstar">
